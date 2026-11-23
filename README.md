@@ -4,7 +4,7 @@
 
 💻 Aspiring Software Developer
 
-🌱 Currently learning Python, C++ and Web Development.
+🌱 Currently learning Python,java, C++ and Web Development.
 
 ## About Me
 - 🎓 Studying Computer Science.

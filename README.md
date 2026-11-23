@@ -18,6 +18,15 @@
 - 💻 C++ – Learning
 - 🌐 HTML & CSS – Learning
 
+  ## My Projects 🚀
+
+### 🎵 Music Recommendation System
+
+- **Platform:** Android Studio
+- **Programming Language:** Java
+- **Description:** An Android application that recommends music based on the user's mood.
+- **Status:** Completed ✅
+
 ## Tools I Use 🛠️
 
 - Android Studio

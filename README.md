@@ -11,6 +11,18 @@
 - 📚 Improving my programming skills.
 - 💡 Exploring new technologies.
 - 🚀 Interested in building coding projects.
+- ## My Tech Stack 💻
+
+- ☕ Java – Android App Development
+- 🐍 Python – Learning
+- 💻 C++ – Learning
+- 🌐 HTML & CSS – Learning
+
+## Tools I Use 🛠️
+
+- Android Studio
+- GitHub
+- VS Code
 
 ## My Goals
 - Build interesting projects.
